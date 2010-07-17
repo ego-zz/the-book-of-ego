@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book version="5.0" xmlns="http://docbook.org/ns/docbook"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xi="http://www.w3.org/2001/XInclude"
+      xmlns:svg="http://www.w3.org/2000/svg"
+      xmlns:m="http://www.w3.org/1998/Math/MathML"
+      xmlns:html="http://www.w3.org/1999/xhtml"
+      xmlns:db="http://docbook.org/ns/docbook">
+  <info>
+    <title>The Book of Ego</title>
+
+    <author>
+      <personname><firstname>Chris</firstname><surname>Barber</surname></personname>
+
+      <affiliation>
+        <orgname></orgname>
+      </affiliation>
+    </author>
+
+    <pubdate></pubdate>
+  </info>
+
+  <chapter>
+    <title>Why Ego?</title>
+
+    <section>
+      <title></title>
+
+      <para></para>
+    </section>
+  </chapter>
+</book>
